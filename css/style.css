@@ -8,7 +8,7 @@ body {
   padding-top: 70px;
 }
 :root {
-  color-scheme: light; /* Browser ko light mode force karta hai */
+  color-scheme: only light; /* Browser ko light mode force karta hai */
 }
 
 /* Agar browser dark mode apply karne ki koshish kare, toh usay roko */
