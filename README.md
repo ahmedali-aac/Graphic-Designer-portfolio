@@ -30,17 +30,11 @@ As the **Designer and Developer** of this project, I utilized the following tech
 - **Performance:** Optimized images and minified assets for lightning-fast loading speeds.
 
 ---
-
 ## 📸 Preview
 
-| Desktop View | Mobile View |
-|<img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/74924884-002a-4859-88d0-2ee5e12f6e35" />|
-|<img width="197" height="420" alt="image" src="https://github.com/user-attachments/assets/bd5b7c21-51e4-42e5-a7a6-4394fb9e60cf" />
-|
-| ![Desktop Preview](https://via.placeholder.com/600x400?text=Desktop+Preview+Coming+Soon) | ![Mobile Preview](https://via.placeholder.com/200x400?text=Mobile+Preview) |
-
-*(Note: Replace placeholders with your own screenshots if available!)*
-
+| 💻 Desktop View | 📱 Mobile View |
+| :--- | :--- |
+| <img src="https://github.com/user-attachments/assets/74924884-002a-4859-88d0-2ee5e12f6e35" width="600" alt="Desktop View" /> | <img src="https://github.com/user-attachments/assets/bd5b7c21-51e4-42e5-a7a6-4394fb9e60cf" width="200" alt="Mobile View" /> |
 ---
 
 ## 📂 Project Structure
